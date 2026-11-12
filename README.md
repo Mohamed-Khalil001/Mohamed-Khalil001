@@ -1,6 +1,6 @@
 # 🛰️ Mohamed Abdelfattah Mohamed
 
-### Aerospace Engineer | AI & Data Science | Space Systems
+## Aerospace Engineer | AI & Data Science | Space Systems
 
 Building intelligent engineering solutions through machine learning, astrodynamics, scientific computing, and satellite data.
 
@@ -11,7 +11,7 @@ Building intelligent engineering solutions through machine learning, astrodynami
 
 ---
 
-## 👨‍🚀 About Me
+# 👨‍🚀 About Me
 
 I am an Aerospace Engineer and Data Scientist interested in developing intelligent solutions for complex engineering and scientific problems.
 
@@ -19,9 +19,9 @@ My work focuses on the intersection of **Space Domain Awareness, spacecraft coll
 
 I enjoy combining physical modeling, data-driven methods, and software engineering to build practical tools for aerospace applications and beyond.
 
-## 🚀 Featured Aerospace & AI Projects
+# 🚀 Featured Aerospace & AI Projects
 
-### 🛰️ ORBITAL-AI — Spacecraft Collision Avoidance
+## 🛰️ ORBITAL-AI — Spacecraft Collision Avoidance
 
 [**View Repository**](https://github.com/Mohamed-Khalil001/orbital-esa-collision-avoidance) · [**Launch Live Application**](https://orbital-esa-collision-avoidance-3ewp7cecpuqb3kh6kmmbse.streamlit.app/)
 
@@ -41,7 +41,7 @@ A machine-learning and astrodynamics project focused on spacecraft conjunction a
 
 **Technology:** Python · LightGBM · FastAPI · Streamlit · Three.js · Astrodynamics
 
-### 🌍 Satellite Image Processing with AI
+## 🌍 Satellite Image Processing with AI
 
 [**View Repository**](https://github.com/Mohamed-Khalil001/Onboard-Image-Processing-Satellite-Using-AI-For-Environmental-Sustainability)
 
